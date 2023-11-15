@@ -1,6 +1,6 @@
 # CppND-System-Monitor
 
-This is an implementation of System Monitor Project of Udacity Learn C++ Nnanodegree. 
+This is an implementation of System Monitor Project of Udacity Learn C++ Nanodegree. 
 
 ![System Monitor](images/monitor.png)
 
